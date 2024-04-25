@@ -17,7 +17,7 @@ Before running the tests, make sure you have the following software installed on
 
 2. Navigate to the project directory:
 
-   cd your-repository
+   cd to CypressQA
 
 3. Install dependencies using npm:
 
